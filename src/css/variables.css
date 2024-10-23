@@ -1,0 +1,7 @@
+:root {
+    --background: hsl(0, 0%, 8%);
+    --container: hsl(0, 0%, 12%);
+    --social-links: hsl(0, 0%, 20%);
+    --localization: hsl(75, 94%, 57%);
+    --paragraph: hsl(0, 0%, 100%);
+}
